@@ -1,4 +1,4 @@
-# Hey , I am Shivansh  🇱🇰 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# Hey , I am Shivansh  🇮🇳 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ## Please note: My popular repositories are at [TeamEiva](https://GitHub.com/teameiva)
 
