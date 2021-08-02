@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p align="left"> <a href="https://github.com/errorshivansh"><img src="https://github-profile-trophy.vercel.app/?username=errorshivansh&no-bg=true" alt="errorshivansh" /></a> </p>
 
-<img width="42%" align="right" alt="Github" src="https://telegra.ph/file/032e346e61e5e2ac25798.png" />
+<img width="42%" align="right" alt="Github" src="20210802_195831.jpg" />
 
 - 👨🏽‍💻 I’m currently working on [TeamEiva](https://t.me/EivaSupport);
 - 🌱 I’m currently learning Python Pyrogram & Telethon; 
