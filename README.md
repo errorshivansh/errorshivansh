@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/errorshivansh)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](errorshivansh:shivanshraghuvanshi2005@gmail.com)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-c14438?style=flat&logo=Telegram&logoColor=white)](https://t.me/errorshivansh)
 
 <p align="left"> <a href="https://github.com/errorshivansh"><img src="https://github-profile-trophy.vercel.app/?username=errorshivansh&no-bg=true" alt="errorshivansh" /></a> </p>
 
