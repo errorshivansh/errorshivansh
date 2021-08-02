@@ -2,16 +2,11 @@
 
 ## Please note: My popular repositories are at [TeamEiva](https://GitHub.com/teameiva)
 
-
-
-
-
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/errorshivansh)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](errorshivansh:shivanshraghuvanshi2005@gmail.com)
 
 
