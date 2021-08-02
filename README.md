@@ -2,9 +2,6 @@
 
 ## Please note: My popular repositories are at [TeamEiva](https://GitHub.com/teameiva)
 
-|  <a href="https://t.me/errorshivansh/"><img src="https://icon-library.net//images/icon-programmer/icon-programmer-14.jpg" width="150px" height="150px" /></a> |
-|:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       
 
 
 
